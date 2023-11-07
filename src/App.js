@@ -4,7 +4,7 @@ import Products from './Products/Products';
 function App() {
 
 const [products, setProducts] = useState([
-  {title:"ahmadi",number:0},
+  {title:"mahdi",number:0},
   {title:"ali",number:0}
 ])
   return (
